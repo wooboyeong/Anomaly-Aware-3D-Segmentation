@@ -15,4 +15,4 @@ The new manual segmentations added here consist of segmentation labels for:
 
 ## Reference
 [1]: Woo B, Engstrom C, Baresic W, Fripp J, Crozier S, Chandra SS. Automated anomaly-aware 3D segmentation of bones and cartilages in knee MR images
-from the Osteoarthritis Initiative. \[arXiv link to be added\]
+from the Osteoarthritis Initiative. [arXiv:2211.16696](http://arxiv.org/abs/2211.16696).
